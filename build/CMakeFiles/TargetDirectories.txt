@@ -1,0 +1,3 @@
+D:/COISAS CPP/FNAF_cpp/build/CMakeFiles/jogo.dir
+D:/COISAS CPP/FNAF_cpp/build/CMakeFiles/edit_cache.dir
+D:/COISAS CPP/FNAF_cpp/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/COISAS CPP/FNAF_cpp/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\jogo.dir\\main.cpp.obj -c \"D:\\COISAS CPP\\FNAF_cpp\\main.cpp\"",
+  "file": "D:\\COISAS CPP\\FNAF_cpp\\main.cpp",
+  "output": "CMakeFiles\\jogo.dir\\main.cpp.obj"
+}
+]
